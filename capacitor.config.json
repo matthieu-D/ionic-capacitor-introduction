@@ -1,0 +1,6 @@
+{
+  "appId": "com.ionicCapacitor.app",
+  "appName": "Ionic Capacitor Intro",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

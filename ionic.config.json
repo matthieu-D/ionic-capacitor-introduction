@@ -1,6 +1,6 @@
 {
   "name": "ionic-capacitor",
-  "app_id": "",
+  "app_id": "com.ionic-capacitor.app",
   "type": "ionic-angular",
   "integrations": {}
 }
